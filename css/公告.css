@@ -33,13 +33,13 @@ input, textarea, select {
 	}
 .gonggaoxian{
 	position: absolute;
-	top:2532px; left:16%; width:68%;
+	top:2530px; left:16%; width:68%;
 	border: yellow 1px solid;
 	}
 #callboard {
 	position: absolute;
-	top:2435px; 
-	left:15.2%; width:69.5%;
+	top:2436px; 
+	left:15.5%; width:69.5%;
     margin:6% auto 0;
     height:242px;
     line-height:24px; 
